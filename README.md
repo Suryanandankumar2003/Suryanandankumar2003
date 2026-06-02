@@ -1,20 +1,113 @@
-# 💫 About Me:
-🔭 I’m currently working on DevOps and Cloud projects like Dockerized applications, CI/CD pipelines, and AWS deployments.<br><br>👯 I’m looking to collaborate on Open Source DevOps, Cloud Infrastructure, and Automation projects.<br><br>🤝 I’m looking for help with Kubernetes, Terraform, and advanced AWS services.<br><br>🌱 I’m currently learning DevOps tools like Docker, Kubernetes, GitHub Actions, Linux Automation, and AWS.<br><br>💬 Ask me about C++, SQL, Linux basics, Git, and Cloud deployment.<br><br>⚡ Fun fact: I love automating tasks and turning manual work into smart scripts.
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=200&section=header&text=Suryanandan%20Kumar&fontSize=36&fontColor=f8fafc&fontAlignY=45&desc=DevOps%20%7C%20Cloud%20%7C%20AI%20%26%20RAG%20Engineer&descAlignY=68&descSize=16&animation=fadeIn)
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suryanandan-kumar) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=A5B4FC&center=true&vCenter=true&width=500&lines=%E2%80%BA+DevOps+%26+Cloud+Engineer;%E2%80%BA+RAG+%26+AI+Pipeline+Builder;%E2%80%BA+Automating+Everything+I+Can;%E2%80%BA+Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto: suryanandankumar2003@gmail.com)
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Suryanandankumar2003&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Suryanandankumar2003&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanandankumar2003&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%236366f1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryanandan-kumar)
+[![Gmail](https://img.shields.io/badge/Gmail-%23f43f5e.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanandankumar2003@gmail.com)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Suryanandankumar2003&icon=6&color=6)](https://visitcount.itsvg.in)
+![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-%2322c55e.svg?style=for-the-badge&logo=handshake&logoColor=white)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Suryanandankumar2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👤 About Me
+
+> *"If something can be automated, I'll script it — laziness is just efficiency in disguise."*
+
+I'm a DevOps and Cloud enthusiast focused on building reliable, automated infrastructure. I enjoy turning complex, manual workflows into clean, repeatable systems — whether that's a Dockerized application, a CI/CD pipeline, a cloud deployment on AWS, or an intelligent RAG-powered application.
+
+| | |
+|---|---|
+| 🔭 **Currently building** | Dockerized apps, CI/CD pipelines, RAG systems & AWS deployments |
+| 🌱 **Currently learning** | Kubernetes, Terraform, advanced AWS & LLM application development |
+| 🤝 **Open to collaborate** | Open-source DevOps, cloud infrastructure & automation projects |
+| 💬 **Ask me about** | C++, SQL, Linux, Git & cloud deployment fundamentals |
+| 🇮🇳 **Location** | India |
+
+---
+
+## 🤖 Active Project — RAG Pipelines
+
+<div align="center">
+
+![Active](https://img.shields.io/badge/🟢%20Status-Active%20Development-6366f1?style=for-the-badge&labelColor=0f172a)
+
+</div>
+
+Building end-to-end **Retrieval-Augmented Generation (RAG)** systems that combine DevOps automation with modern AI — creating production-ready intelligent applications.
+
+![LangChain](https://img.shields.io/badge/LangChain-ccfbf1?style=flat-square&logo=langchain&logoColor=0f766e)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-e0e7ff?style=flat-square&logoColor=3730a3)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-fef9c3?style=flat-square&logo=huggingface&logoColor=854d0e)
+![FAISS](https://img.shields.io/badge/FAISS-dbeafe?style=flat-square&logo=meta&logoColor=1e40af)
+![Pinecone](https://img.shields.io/badge/Pinecone-dcfce7?style=flat-square&logoColor=166534)
+
+---
+
+## 🛠️ Tech Stack
+
+**☁️ Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-ffedd5?style=flat-square&logo=amazon-aws&logoColor=9a3412)
+![GCP](https://img.shields.io/badge/Google_Cloud-dbeafe?style=flat-square&logo=google-cloud&logoColor=1e40af)
+![Docker](https://img.shields.io/badge/Docker-cffafe?style=flat-square&logo=docker&logoColor=164e63)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-dbeafe?style=flat-square&logo=kubernetes&logoColor=1e40af)
+![Terraform](https://img.shields.io/badge/Terraform-f3e8ff?style=flat-square&logo=terraform&logoColor=6b21a8)
+![Ansible](https://img.shields.io/badge/Ansible-f1f5f9?style=flat-square&logo=ansible&logoColor=475569)
+![Jenkins](https://img.shields.io/badge/Jenkins-f1f5f9?style=flat-square&logo=jenkins&logoColor=475569)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-e0e7ff?style=flat-square&logo=githubactions&logoColor=3730a3)
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-dbeafe?style=flat-square&logo=python&logoColor=1e40af)
+![C++](https://img.shields.io/badge/C++-dbeafe?style=flat-square&logo=c%2B%2B&logoColor=1e40af)
+![JavaScript](https://img.shields.io/badge/JavaScript-fef9c3?style=flat-square&logo=javascript&logoColor=854d0e)
+![Java](https://img.shields.io/badge/Java-ffedd5?style=flat-square&logo=openjdk&logoColor=9a3412)
+![C](https://img.shields.io/badge/C-f1f5f9?style=flat-square&logo=c&logoColor=475569)
+![HTML5](https://img.shields.io/badge/HTML5-ffedd5?style=flat-square&logo=html5&logoColor=9a3412)
+![CSS3](https://img.shields.io/badge/CSS3-dbeafe?style=flat-square&logo=css3&logoColor=1e40af)
+![LaTeX](https://img.shields.io/badge/LaTeX-ccfbf1?style=flat-square&logo=latex&logoColor=0f766e)
+
+**📚 Frameworks & Libraries**
+
+![Django](https://img.shields.io/badge/Django-dcfce7?style=flat-square&logo=django&logoColor=166534)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ffedd5?style=flat-square&logo=tensorflow&logoColor=9a3412)
+![PyTorch](https://img.shields.io/badge/PyTorch-ffe4e6?style=flat-square&logo=pytorch&logoColor=9f1239)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-ffedd5?style=flat-square&logo=scikit-learn&logoColor=9a3412)
+![NumPy](https://img.shields.io/badge/NumPy-dbeafe?style=flat-square&logo=numpy&logoColor=1e40af)
+![Pandas](https://img.shields.io/badge/Pandas-f3e8ff?style=flat-square&logo=pandas&logoColor=6b21a8)
+
+**🗄️ Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-dbeafe?style=flat-square&logo=mysql&logoColor=1e40af)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-dbeafe?style=flat-square&logo=postgresql&logoColor=1e40af)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-e0e7ff?style=flat-square&logo=amazondynamodb&logoColor=3730a3)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Suryanandankumar2003&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0f172a&title_color=a5b4fc&text_color=e2e8f0&icon_color=06b6d4" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Suryanandankumar2003&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=f43f5e&currStreakLabel=a5b4fc&sideLabels=a5b4fc&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanandankumar2003&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0f172a&title_color=a5b4fc&text_color=e2e8f0" />
+
+</div>
+
+---
+
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0f172a&height=120&section=footer&text=Always%20Learning.%20Always%20Automating.&fontSize=14&fontColor=94a3b8&fontAlignY=65)
