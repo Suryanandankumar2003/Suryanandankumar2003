@@ -93,21 +93,16 @@ Building end-to-end **Retrieval-Augmented Generation (RAG)** systems that combin
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Suryanandankumar2003&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0f172a&title_color=a5b4fc&text_color=e2e8f0&icon_color=06b6d4" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Suryanandankumar2003&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=f43f5e&currStreakLabel=a5b4fc&sideLabels=a5b4fc&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanandankumar2003&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0f172a&title_color=a5b4fc&text_color=e2e8f0" />
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Suryanandankumar2003&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Suryanandankumar2003&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanandankumar2003&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Suryanandankumar2003&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:0f172a&height=120&section=footer&text=Always%20Learning.%20Always%20Automating.&fontSize=14&fontColor=94a3b8&fontAlignY=65)
