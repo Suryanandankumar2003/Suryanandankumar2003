@@ -1,5 +1,7 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=200&section=header&text=Suryanandan%20Kumar&fontSize=36&fontColor=f8fafc&fontAlignY=45&desc=DevOps%20%7C%20Cloud%20%7C%20AI%20%26%20RAG%20Engineer&descAlignY=68&descSize=16&animation=fadeIn)
+<p align="center">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Suryanandan+Kumar;DevOps+Engineer;Cloud+Engineer;AI+%26+RAG+Developer;Always+Learning+New+Technologies" />
+</p>
 
 <div align="center">
 
@@ -9,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%236366f1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryanandan-kumar)
 [![Gmail](https://img.shields.io/badge/Gmail-%23f43f5e.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanandankumar2003@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Suryanandankumar2003&icon=6&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Suryanandankumar2003&label=Visitors&color=blueviolet&style=for-the-badge)
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-%2322c55e.svg?style=for-the-badge&logo=handshake&logoColor=white)
 
 </div>
@@ -91,13 +93,7 @@ Building end-to-end **Retrieval-Augmented Generation (RAG)** systems that combin
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Suryanandankumar2003&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Suryanandankumar2003&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanandankumar2003&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=Suryanandankumar2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
