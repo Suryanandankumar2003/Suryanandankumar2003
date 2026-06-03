@@ -93,7 +93,6 @@ Building end-to-end **Retrieval-Augmented Generation (RAG)** systems that combin
 
 ## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Suryanandankumar2003&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Suryanandankumar2003&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanandankumar2003&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
